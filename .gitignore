@@ -3,6 +3,5 @@
 **/.firebaserc
 */npm-debug.log
 lerna-debug.log
-*~
 service-account-credentials.json
 **/package-lock.json
